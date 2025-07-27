@@ -1,0 +1,28 @@
+Datasets,Models,Scaler,RMSE
+California Housing,Decision Tree,MinMaxScaler,74099.90334
+California Housing,Decision Tree,RobustScaler,74550.69462
+California Housing,Decision Tree,StandardScaler,74354.77876
+California Housing,KNN,MinMaxScaler,64590.10835
+California Housing,KNN,RobustScaler,66078.56062
+California Housing,KNN,StandardScaler,65242.11892
+California Housing,Linear Regression,MinMaxScaler,72879.58651
+California Housing,Linear Regression,RobustScaler,72879.58651
+California Housing,Linear Regression,StandardScaler,72879.58651
+London Bike Sharing,Decision Tree,MinMaxScaler,1205.096968
+London Bike Sharing,Decision Tree,RobustScaler,1197.798071
+London Bike Sharing,Decision Tree,StandardScaler,1202.396341
+London Bike Sharing,KNN,MinMaxScaler,926.3131913
+London Bike Sharing,KNN,RobustScaler,925.0191335
+London Bike Sharing,KNN,StandardScaler,924.7489053
+London Bike Sharing,Linear Regression,MinMaxScaler,926.9968935
+London Bike Sharing,Linear Regression,RobustScaler,926.9968935
+London Bike Sharing,Linear Regression,StandardScaler,926.9968935
+Audit,Decision Tree,MinMaxScaler,19.54512709
+Audit,Decision Tree,RobustScaler,20.68290841
+Audit,Decision Tree,StandardScaler,20.34847172
+Audit,KNN,MinMaxScaler,27.70178479
+Audit,KNN,RobustScaler,27.85702804
+Audit,KNN,StandardScaler,26.71078121
+Audit,Linear Regression,MinMaxScaler,23.17925464
+Audit,Linear Regression,RobustScaler,23.17950165
+Audit,Linear Regression,StandardScaler,23.17902034
